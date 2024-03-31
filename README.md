@@ -16,4 +16,9 @@
 - CSS3
 - JavaScript
 
+## Acknowledgments
+
+Special thanks to [KG-Coding-by-Prashant-Sir] for inspiration.
+
+
 
