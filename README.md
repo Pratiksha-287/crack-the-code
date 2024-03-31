@@ -18,7 +18,7 @@
 
 ## Acknowledgments
 
-Special thanks to @KG-Coding-by-Prashant-Sir for inspiration.
+Special thanks to [KG-Coding-by-Prashant-Sir] for inspiration.
 
 
 
