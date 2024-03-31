@@ -1,6 +1,6 @@
 # crack-the-code
  It is a simple JavaScript guessing game where players have to guess the hidden number within 5 chances.
-![Gameplay](<img width="951" alt="crack the code" src="https://github.com/Pratiksha-287/crack-the-code/assets/119301269/aca8fa5d-816f-4928-9d92-d623cf396df9">)
+![Gameplay](crack the code.png)
 
 ## How to Play
 
