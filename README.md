@@ -10,3 +10,10 @@
 4. After each guess, the game will provide feedback on whether your guess correct or not and provide you your remaining chances.
 5. Keep guessing until you find the hidden number or run out of chances.
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+
